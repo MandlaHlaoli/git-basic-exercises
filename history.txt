@@ -1,0 +1,500 @@
+   45  cd...
+   46  cd ...
+   47  git status
+   48  nano .gitignore
+   49  git status
+   50  git add .gitignore
+   51  git commit -m "added .gitignore"
+   52  git push
+   53  git checkout main
+   54  git init
+   55  git init
+   56  git checkout main
+   57  checkout -b task/2
+   58  git checkout -b task/2
+   59  git task1.js
+   60  git add task1.js
+   61  [200~git reset HEAD task1.js
+   62  git reset HEAD task1.js
+   63  git status
+   64  [200~git reset HEAD task1.js
+   65  git reset HEAD task1.js
+   66  git reset task1.js
+   67  git status
+   68  git add task2.js
+   69  git status
+   70  git commit -m "Add solution for Task 2"
+   71  git push origin task/1
+   72  git push origin task/2
+   73  git remote add origin https://github.com/Umuzi-org/Mandla-Hlaoli-219-level-1-programming-katas-javascript.git
+   74  git push origin task/2
+   75  checkout -b task/3
+   76  git checkout -b task/3
+   77  git checkout main
+   78  git pull
+   79  checkout -b task/3
+   80  git checkout -b task/3
+   81  git status
+   82  git add task3.js
+   83  git status
+   84  git commit -m "Add solution for Task 3"
+   85  git push origin task/3
+   86  git checkout -b task/4
+   87  git checkout main
+   88  git pull
+   89  chockout task/4
+   90  git chockout task/4
+   91  git checkout task/4
+   92  git add task4.js
+   93  git commit -m "Add solution for Task 4"
+   94  git status
+   95  git push origin task/4
+   96  git chockout task/5
+   97  git checkout task/5
+   98  git checkout -b task/5
+   99  checkout main
+  100  git checkout main
+  101  git pull
+  102  git checkout task/5
+  103  git add task5.js
+  104  git commit -m "Add solution to Task 5"
+  105  git push origin task/5
+  106  git checkout main
+  107  git pull
+  108  git checkout -b task/6
+  109  git add task6.js
+  110  git status
+  111  git commit -m "Add solution to Task 6"
+  112  git push origin task/6
+  113  git checkout main
+  114  git pull
+  115  git checkout -b task/7
+  116  git add task7.js
+  117  git commit -m "Add solution to Task 7"
+  118  git push origin task/7
+  119  checkout main
+  120  git checkout main
+  121  git pull
+  122  git checkout -b task/1
+  123  git add task1.js
+  124  git status
+  125  git commit -m "Add solution to Task 1"
+  126  git push origin task/1
+  127  git remote -v
+  128  git init
+  129  git checkout main
+  130  git checkout -b important-branch
+  131  nano important.md
+  132  git add important.md
+  133  git commit -m "Add more text to important.md file"
+  134  git add https://github.com/Umuzi-org/Mandla-Hlaoli-606-tilde-project-tutorial-how-repo-projects-work-
+  135  git add https://github.com/Umuzi-org/Mandla-Hlaoli-606-tilde-project-tutorial-how-repo-projects-work-
+  136  git add https://github.com/Umuzi-org/Mandla-Hlaoli-606-tilde-project-tutorial-how-repo-projects-work-
+  137  git commit -m "Add more text to important.md file"
+  138  git status
+  139  git remotr add https://github.com/Umuzi-org/Mandla-Hlaoli-606-tilde-project-tutorial-how-repo-projects-work-
+  140  git remote add https://github.com/Umuzi-org/Mandla-Hlaoli-606-tilde-project-tutorial-how-repo-projects-work-
+  141  git remote add https://github.com/Umuzi-org/Mandla-Hlaoli-606-tilde-project-tutorial-how-repo-projects-work-
+  142  git remote -v
+  143  git remote add https://github.com/Umuzi-org/Mandla-Hlaoli-606-tilde-project-tutorial-how-repo-projects-work-.git
+  144  git remote add https://github.com/Umuzi-org/Mandla-Hlaoli-606-tilde-project-tutorial-how-repo-projects-work-.git
+  145  git remote -v
+  146  git remote add origin https://github.com/Umuzi-org/Mandla-Hlaoli-606-tilde-project-tutorial-how-repo-projects-work-.git
+  147  git remote -v
+  148  git push origin important-branch
+  149  git clone https://github.com/username/username.github.io
+  150  git clone https://github.com/MandlaHlaoli/MandlaHlaoli.github.io
+  151  git clone https://github.com/MandlaHlaoli/MandlaHlaoli.github.io
+  152  cd MandlaHlaoli.github.io
+  153  echo "Hello world" > index.html
+  154  git add --all
+  155  git commit -m "Initial commit"
+  156  git push -u origin main
+  157  git clone https://github.com/MandlaHlaoli/MandlaHlaoli.github.io
+  158  cd MandlaHlaoli.github.io
+  159  git add -all
+  160  git add --all
+  161  git commit -m "Initial commit"
+  162  git add images
+  163  git add index
+  164  git add index.js
+  165  git init
+  166  git add .
+  167  git commit -m "Initial commit"
+  168  [200~git remote add origin https://github.com/MandlaHlaoli/MandlaHlaoli/github.io.git
+  169  git remote add origin https://github.com/MandlaHlaoli/MandlaHlaoli/github.io.git
+  170  git push u- origin main
+  171  git push -u origin main
+  172  git remote add origin https://github.com/MandlaHlaoli/MandlaHlaoli.github.io.git
+  173  git push -u origin main
+  174  [200~git clone https://github.com/MandlaHlaoli/MandlaHlaoli.github.io
+  175  git clone https://github.com/MandlaHlaoli/MandlaHlaoli.github.io
+  176  cd MandlaHlaoli.github.io
+  177  git add .
+  178  git commit -m "Add existing project files"
+  179  git push -u origin main
+  180  git push -u origin main
+  181  git pull
+  182  rm -rtf .git
+  183  rm -rf .git
+  184  git init
+  185  git clone https://github.com/MandlaHlaoli/MandlaHlaoli.github.io
+  186  cd MandlaHlaoli.github.io
+  187  git add .
+  188  git commit -m "Add existing project files"
+  189  git status
+  190  git log
+  191  git push origin main
+  192  [200~git pull origin main
+  193  git pull origin main
+  194  git push origin main
+  195  git push -f origin main
+  196  git init
+  197  git add .
+  198  git commit -m "Initial add"
+  199  git push origin main
+  200  git remote add origin https://github.com/MandlaHlaoli/MandlaHlaoli/github.io.git
+  201  git remote add origin https://github.com/MandlaHlaoli/MandlaHlaoli/github.io.git
+  202  git push origin main
+  203  git checkout history
+  204  rm README.md
+  205  echo "booya" > README.md
+  206  git checkout main
+  207  git checkout main
+  208  git commit -m "rewrote readme"
+  209  git add README.md
+  210  git commit -m "rewrote readme"
+  211  git checkout main
+  212  ls
+  213  mkdir git-basic-exercises
+  214  cd git-basic-exercises
+  215  ls -a
+  216  git init
+  217  ls -a
+  218  git status
+  219  touch README.md
+  220  ls -a
+  221  git log
+  222  git add README.md
+  223  git status
+  224  git commit -m "initial commit"
+  225  git log
+  226  nano README.md
+  227  cat README.md
+  228  git commit -m "second commit"
+  229  git add README.md
+  230  git commit -m "second commit"
+  231  nano README.md
+  232  git add README.md
+  233  git commit -m "third commit"
+  234  git log
+  235  git checkout main
+  236  cat README.md
+  237  git checkout
+  238  git branch
+  239  git branch milkshake-flavours
+  240  git checkout branch milkshake-flavours
+  241  git branch milkshake-flavours
+  242  git checkout milkshake-flavours
+  243  nano milkshakes.md
+  244  git add milkshakes.md
+  245  git commit -m "added initial flavours"
+  246  git checkout main
+  247  git checkout -b history
+  248  git log
+  249  history > history.txt
+  250  git status
+  251  cat history.txt
+  252  git add history.txt
+  253  git commit -m "added history"
+  254  git log
+  255  git checkout milkshake-flavours
+  256  git log
+  257  nano README.md
+  258  git add README.md
+  259  git commit -m "added histor"
+  260  git commit -m "random readme changes"
+  261  git reset --soft HEAD^
+  262  git commit -m "random readme changes"
+  263  git checkout history
+  264  cat README.md
+  265  rm README.md
+  266  echo "booya" > README.md
+  267  git status
+  268  git add README.md
+  269  git commit -m "rewrote readme"
+  270  git checkout main
+  271  ls
+  272  git log
+  273  git checkout milkshake-flavours
+  274  ls
+  275  git log
+  276  git checkout history
+  277  ls
+  278  git log
+  279  git checkout main
+  280  git merge milkshake-flavours
+  281  ls
+  282  git merge history
+  283  nano README.md
+  284  git add README.md
+  285  git commit -m "Resolved merge conflict in README.md"
+  286  git push origin main
+  287  git push origin main https://github.com/MandlaHlaoli/git-basic-exercises
+  288  git remote add origin  https://github.com/MandlaHlaoli/git-basic-exercises
+  289  git push origin main
+  290  git fetch origin
+  291  git merge origin/main
+  292  git merge origin/main --allow-unrelated-histories
+  293  [200~git push origin main~
+  294  git push origin main
+  295  git pull origin main
+  296  nano README.md
+  297  git add README.MD
+  298  git add README.md
+  299  git status
+  300  git commit -m "Resolved merge conflict"
+  301  mkdir git-basic-exercises
+  302  cd git-basic-exercises
+  303  git imit
+  304  git init
+  305  ls -a
+  306  [200~touch README.md
+  307  touch README.md
+  308  ls -a
+  309  git status
+  310  git add README.md
+  311  git status
+  312  git commit -m "Initial commit"
+  313  git log
+  314  nano README.md
+  315  [200~git status
+  316  git status
+  317  git add README.md
+  318  git commit -m "Second commit"
+  319  nano README.md
+  320  git add README.md
+  321  git commit -m "Third commit"
+  322  git log
+  323  git branch
+  324  git branch milkshake-flavours
+  325  git branch milkshake-flavours
+  326  git branch
+  327  git checkout milkshake-flavours
+  328  nano milkshakes.md
+  329  git status
+  330  git add milkshakes.md
+  331  git commit -m "added initial flavours"
+  332  git log
+  333  git checkout main
+  334  git log
+  335  git branch history
+  336  git checkout history
+  337  git log
+  338  cleae
+  339  clear
+  340  git log
+  341  git branch
+  342  history > history.txt
+  343  git add history.txt
+  344  git commit -m "added history"
+  345  git log
+  346  git log
+  347  clear
+  348  git checkout milkshake-flavours
+  349  git log
+  350  nano README.md
+  351  git add README.md
+  352  git commit -m "random readme changes"
+  353  git checkout history
+  354  cat README.md
+  355  rm README.md
+  356  echo "booya" > README.md
+  357  git status
+  358  git add README.md
+  359  git commit -m "rewrote readme"
+  360  git checkout main
+  361  clear
+  362  ls
+  363  clear
+  364  git log
+  365  clear
+  366  git checkout milkshake-flavours
+  367  ls
+  368  clear
+  369  git log
+  370  clear
+  371  git checkout history
+  372  ls
+  373  clear
+  374  git log
+  375  git checkout main
+  376  git merge milkshake-flavours
+  377  ls
+  378  git log
+  379  git merge history
+  380  ls
+  381  git log
+  382  clear
+  383  git checkout history
+  384  git log
+  385  git checkout milkshake-flavours
+  386  git log
+  387  clear
+  388  git remote add origin https://github.com/MandlaHlaoli/git-basic-exercises
+  389  git branch -M main
+  390  git push -u origin main
+  391  git push origin history
+  392  git push origin milkshake-flavours
+  393  git status
+  394  git checkout main
+  395  nano README.md
+  396  git status
+  397  nano README.md
+  398  git add README.md
+  399  git commit -m "Resolved merge conflict in README.md"
+  400  git push origin main
+  401  cd ../
+  402  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  403  cd git-basic-exercises
+  404  clear
+  405  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  406  cd repo-to-clone
+  407  git branch
+  408  git log
+  409  cd a-repo-to-clone
+  410  git branch
+  411  git log
+  412  git branch -a
+  413  git checkout a-branch-with-a-few-commits
+  414  git remote -v
+  415  clear
+  416  git log
+  417  cd ../git-basic-exercises
+  418  cd git-basic-exercises
+  419  cd..
+  420  cd ..
+  421  cd
+  422  mkdir this-will-be-another-repo
+  423  mkdir this-will-be-another-repo
+  424  [200~cd this-will-be-another-repo
+  425  ~
+  426  cd this-will-be-another-repo
+  427  git init
+  428  touch README.md
+  429  git add README.md
+  430  git commit -m "initial commit"
+  431  cd ~/git-basic-exercises
+  432  git remote -v
+  433  [200~touch ignore-me.db
+  434  touch ignore-me.db
+  435  git status
+  436  nano .gitignore
+  437  ignore-me.db
+  438  git status
+  439  mkdir large-directory-that-should-be-local-only
+  440  cd large-directory-that-should-be-local-only
+  441  echo "Some random text" > readme.md
+  442  cd..
+  443  cd ..
+  444  git status
+  445  git status
+  446  nano .gitignore
+  447  git status
+  448  clear
+  449  git add .gitignore
+  450  git commit -m "added .gitignore"
+  451  git push
+  452  history branch not merged causing the conflict not to be resolved.
+  453  git checkout main
+  454  git merge history
+  455  git branch --merged
+  456  git fetch origin
+  457  git init
+  458  git fetch origin
+  459  git pull origin main
+  460  git checkout task/2
+  461  clear
+  462  git checkout task/2
+  463  git branch -a
+  464  git remote add origin https://github.com/Umuzi-org/Mandla-Hlaoli-219-level-1-programming-katas-javascript/tree/task/2
+  465  git branch -a
+  466  git fetch origin
+  467  git checkout task/2
+  468  git checkout origin/task/2
+  469  git branch
+  470  git checkout task/2
+  471  git checkout main
+  472  git status
+  473  git add task2.js
+  474  git merge task/4
+  475  rm -rf .git
+  476  git init
+  477  git remote add origin https://github.com/Umuzi-org/Mandla-Hlaoli-219-level-1-programming-katas-javascript.git
+  478  git checkout -b task/4
+  479  git add task4.js
+  480  git commit -m "Add task4.js file"
+  481  git checkout -b task/4
+  482  git add task4.js
+  483  git commit -m "Add task4.js file"
+  484  rm -rf .git
+  485  git init
+  486  git remotre -v
+  487  git remote -v
+  488  git remote add origin https://github.com/Umuzi-org/Mandla-Hlaoli-219-level-1-programming-katas-javascript.git
+  489  git remote -v
+  490  git checkout -b task/4
+  491  git add task4.js
+  492  git commit -m "Add task4.js file"
+  493  git push origin task/4
+  494  git fetch origin
+  495  git rebase origin/main
+  496  git push origin task/4 --force
+  497  git checkout -b test
+  498  git add random.js
+  499  git commit -m "Add random.js file"
+  500  git push origin test
+  501  mkdir git-basic-exercises
+  502  mkdir git-basic-exercises
+  503  cd git-basic-exercises
+  504  ls -a
+  505  git init
+  506  ls -a
+  507  git status
+  508  touch README.md
+  509  ls -a
+  510  git status
+  511  git log
+  512  git add README.md
+  513  git status
+  514  git commit -m "initial commit"
+  515  git log
+  516  nano README.md
+  517  cat README.md
+  518  git status
+  519  git add README.md
+  520  git commit -m "second commit"
+  521  nano README.md
+  522  git add README.ms
+  523  git add README.md
+  524  git commit -m "third commit"
+  525  git log
+  526  git checkout eb645f62cca59f8f7517d0259bf8fa876ccfd38a
+  527  q
+  528  cat README.md 
+  529  git checkout main
+  530  cat README.md
+  531  clear
+  532  git branch
+  533  git branch milkshake-flavours
+  534  git checkout milkshake-flavours
+  535  nano milkshakes.md
+  536  git status
+  537  git add milkshakes.md
+  538  git commit -m "added initial flavours"
+  539  git log
+  540  git log
+  541  git checkout main
+  542  git branch history
+  543  git checkout history
+  544  history > history.txt
